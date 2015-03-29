@@ -1,0 +1,23 @@
+{
+  "name": "equalize-heights",
+  "version": "1.0.0",
+  "main": "dist/equalize-heights.min.js",
+  "authors": [
+    "Matt Bailey <matt@gpmd.co.uk>"
+  ],
+  "description": "A simple jQuery plugin for equalizing the heights of elements in a row.",
+  "keywords": [
+    "jquery",
+    "flexbox",
+    "equalize",
+    "height"
+  ],
+  "homepage": "https://github.com/gpmd/equalize-heights",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
